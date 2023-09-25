@@ -1,3 +1,12 @@
+
+# Preview
+
+
+
+https://github.com/robertDinca2003/Calendar-To-Do-App/assets/71851178/a9bb72ef-fd44-4139-8819-fdae9747df89
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
