@@ -1,11 +1,40 @@
+# Advanced To-Do App
 
-# Preview
+## Access a live demo
 
+https://calendar-to-do-list.netlify.app/
 
+## Preview
 
 https://github.com/robertDinca2003/Calendar-To-Do-App/assets/71851178/a9bb72ef-fd44-4139-8819-fdae9747df89
 
+# Descripton
 
+  Introducing Advance To-Do App, your ultimate productivity companion!
+Advance To-Do App is a dynamic web application meticulously crafted with React and TailwindCSS, designed to simplify your daily life.
+Seamlessly blending a to-do list with an intuitive calendar, Advance To-Do App empowers you to plan and organize your year like never before.
+With Advance To-Do App, you can effortlessly create custom to-do lists for any day of the year.
+
+# Usefull Tasks Completed
+
+- Working with states.
+- Creating and handle a system to keep the task sync with the coresponding days.
+- Creating a Create-Complete-Delete System for tasks.
+
+# Competences
+
+-  Showing the ability to build a fully functional and production ready app.
+-  Adaptability, I can adapt to any challenge appears in the process of development.
+-  Responsive designes, almost every resolution and support from widths of 230px up to 3840px and beyound. From mobile to desktops, all devices are supported.
+-  Testing and Debugging, all apps through development have problems, I indentified the problems by testing in all ways the funtionalities of the website. After indentifing the bug, I have solved them in a way that they do not occure again.
+
+# Skills
+
+-  React, used for creating the layout and functionalities of the website
+-  TailwindCSS, used for responsive design and for styling the apperance of the website
+-  Netlify, used for deploy the live demo of the website
+-  PhotoShop, used for creating the necessary assets for the website
+-  Axios, used to call APIs to get acces to the list of products
 
 # Getting Started with Create React App
 
